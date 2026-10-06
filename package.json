@@ -1,0 +1,13 @@
+{
+  "name": "boruto-raiden-whatsapp",
+  "author": "chartliex",
+  "type": "module",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "mongodb": "^7.7.0",
+    "puppeteer": "^25.12.0",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.34.7"
+  }
+}
